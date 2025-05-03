@@ -1,5 +1,5 @@
 # CaracteristicasRadiomicas
-Esse é o repositório de um projeto busca explorar, modelar e avaliar algoritmos de machine learning para a classificação binária de câncer de mama e aplicar técnicas de clustering para análise não supervisionada dos mesmos dados.
+Esse é o repositório de um projeto que busca explorar, modelar e avaliar algoritmos de machine learning para a classificação binária de câncer de mama e aplicar técnicas de clustering para análise não supervisionada dos mesmos dados.
 
 # radiomic_data
 Repositorio de onde tirei os dados contendo o dataset para o projeto além do pdf do TCC em que a base foi utilizada.
